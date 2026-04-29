@@ -1,0 +1,46 @@
+{
+  "additive": {
+    "manual_numpy": {
+      "ISNN-1": {
+        "final_train_loss_mean": 0.014280646579729578,
+        "final_test_loss_mean": 0.1124881563565184
+      },
+      "ISNN-2": {
+        "final_train_loss_mean": 0.002923521376240826,
+        "final_test_loss_mean": 0.11354198642656274
+      }
+    },
+    "pytorch": {
+      "ISNN-1": {
+        "final_train_loss_mean": 0.01421823538839817,
+        "final_test_loss_mean": 0.11356658488512039
+      },
+      "ISNN-2": {
+        "final_train_loss_mean": 0.000525670705246739,
+        "final_test_loss_mean": 0.07517358064651489
+      }
+    }
+  },
+  "multiplicative": {
+    "manual_numpy": {
+      "ISNN-1": {
+        "final_train_loss_mean": 0.0005396981343225349,
+        "final_test_loss_mean": 0.021240315109760613
+      },
+      "ISNN-2": {
+        "final_train_loss_mean": 0.00020250937889594307,
+        "final_test_loss_mean": 0.02579165594033283
+      }
+    },
+    "pytorch": {
+      "ISNN-1": {
+        "final_train_loss_mean": 0.0005399018875323236,
+        "final_test_loss_mean": 0.02123162429779768
+      },
+      "ISNN-2": {
+        "final_train_loss_mean": 0.00019231504120398313,
+        "final_test_loss_mean": 0.02253261152654886
+      }
+    }
+  }
+}

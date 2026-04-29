@@ -1,0 +1,15 @@
+{
+  "epochs": 1000,
+  "seeds": 10,
+  "learning_rate": 0.01,
+  "models": {
+    "ISNN-1": {
+      "final_train_loss_mean": 0.014280646579729578,
+      "final_test_loss_mean": 0.1124881563565184
+    },
+    "ISNN-2": {
+      "final_train_loss_mean": 0.002923521376240826,
+      "final_test_loss_mean": 0.11354198642656274
+    }
+  }
+}
